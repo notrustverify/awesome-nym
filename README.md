@@ -7,3 +7,4 @@ To contribute, please file a PR. Please list items alphabetically.
 
 ## Nodes
 - [docker deployment](https://github.com/sven-hash/nym-docker)
+- [monitor your nodes](t.me/nymnodebot)
