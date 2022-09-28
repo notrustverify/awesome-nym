@@ -5,12 +5,12 @@ A curated list of resources about [Nym](https://nymtech.net/) besides the offici
 To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
 
 
-## Tools
+## 🔨Tools
 
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
 - [Is Nym mixnet up](https://isnymup.com/)
 
-## Communities
+## 🗺️Communities
 
 - [🌎 English](https://t.me/nymchan) 
 - [🇨🇳 中文](https://t.me/nymchina) 
@@ -26,5 +26,5 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [🇮🇷 Persian (Unofficial)](https://t.me/Nym_Persian)
 - [🇹🇭 Thai (Unofficial)](https://t.me/nymthai)
 
-## Nodes
+## ⛓️Nodes
 - [Docker deployment](https://github.com/sven-hash/nym-docker)
