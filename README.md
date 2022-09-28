@@ -8,7 +8,7 @@ To contribute, please file a PR. Please list items alphabetically.
 ## Tools
 
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
-- [Is Nym mixnet is up](https://isnymup.com/)
+- [Is Nym mixnet up](https://isnymup.com/)
 
 ## Nodes
 - [docker deployment](https://github.com/sven-hash/nym-docker)
