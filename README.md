@@ -1,4 +1,10 @@
-# awesome-nym [![Awesome](https://awesome.re/badge.svg)](https://github.com/notrustverify/awesome-nym)
+<p align="center">
+ <img width="40%" align="center" src="https://i.imgur.com/3uJX7Wj.png">
+</p>
+
+
+ [![Awesome](https://awesome.re/badge.svg)](https://github.com/notrustverify/awesome-nym)
+
 
 A curated list of resources about [Nym](https://nymtech.net/) besides the official [docs](https://nymtech.net/docs/stable/overview/).
 
