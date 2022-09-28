@@ -2,7 +2,7 @@
 
 A curated list of resources about [Nym](https://nymtech.net/) besides the official [docs](https://nymtech.net/docs/stable/overview/).
 
-To contribute, please file a PR. Please list items alphabetically.
+To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
 
 
 ## Tools
