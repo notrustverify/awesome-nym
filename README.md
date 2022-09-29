@@ -2,11 +2,19 @@
  <img width="40%" align="center" src="https://i.imgur.com/3uJX7Wj.png">
 </p>
 
-
  [![Awesome](https://awesome.re/badge.svg)](https://github.com/notrustverify/awesome-nym)
 
-
 A curated list of resources about [Nym](https://nymtech.net/) besides the official [docs](https://nymtech.net/docs/stable/overview/).
+
+## ToC
+- [🔨Tools](#tools)
+- [🧭Explorers](#explorers)
+- [ℹ️Tutorials](#ℹ%EF%B8%8Ftutorials)
+  * [🇬🇧English](#english)
+  * [🇫🇷Français](#français)
+- [🎟️Grants](#%EF%B8%8Fgrants)
+- [🗺️Communities](#%EF%B8%8Fcommunities)
+- [⛓️Nodes](#%EF%B8%8Fnodes)
 
 To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
 
