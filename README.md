@@ -22,6 +22,17 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Node Guru blockchain](https://nym.explorers.guru/)
 - [Nym nodes explorer](https://explorer.nymtech.net/)
 
+## ℹ️Tutorials
+
+### 🇬🇧English
+
+- [Transfer your NYM ERC20 to the Nym wallet  ](https://medium.com/notrustverify/transfer-your-nym-erc20-to-the-nym-wallet-via-gravity-bridge-10976d8945b1)
+- [📽️Staking in Nym  ](https://www.youtube.com/watch?v=ZAVoCmYGNFQ&t=1s)
+
+### 🇫🇷Français
+
+- [Transférer ses NYM ERC20 sur le wallet Nym  ](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
+
 ## 🎟️Grants
 
 ## 🗺️Communities
