@@ -16,6 +16,12 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
 - [Is Nym mixnet up](https://isnymup.com/)
 
+## 🧭Explorers
+
+- [Node Guru nodes](https://mixnet.explorers.guru/)
+- [Node Guru blockchain](https://nym.explorers.guru/)
+- [Nym nodes explorer](https://explorer.nymtech.net/)
+
 ## 🎟️Grants
 
 ## 🗺️Communities
