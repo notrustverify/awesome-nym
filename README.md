@@ -20,8 +20,9 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 
 ## 🔨Tools
-- [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
+- [Chat webapp](https://chat-demo.nymtech.net/)
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
+- [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Is Nym mixnet up](https://isnymup.com/)
 
 ## 🧭Explorers
