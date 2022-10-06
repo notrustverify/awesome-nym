@@ -45,7 +45,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 - [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
 
-### Russian
+### 🇷🇺Russian
 - [Nodes.Guru mixnet staking tutorial](https://www.youtube.com/watch?v=2eq4clImbeo)
 
 ## 🎟️Grants
