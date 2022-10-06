@@ -23,8 +23,9 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Chat webapp](https://chat-demo.nymtech.net/)
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
-- [Is Nym mixnet up](https://isnymup.com/)
 - [Nodes.Guru telegram monitoring bot (+mixnodes)](https://t.me/NodesGuru_bot)
+- [Is Nym mixnet up](https://isnymup.com/)
+
 
 ## 🧭Explorers
 
@@ -34,18 +35,18 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ## ℹ️Tutorials
 
-### 🇬🇧English
+### :gb: English
 
 - [Transfer your NYM ERC20 to the Nym wallet](https://medium.com/notrustverify/transfer-your-nym-erc20-to-the-nym-wallet-via-gravity-bridge-10976d8945b1)
 - [📺Staking in Nym](https://www.youtube.com/watch?v=ZAVoCmYGNFQ&t=1s)
 - [Nodes.Guru staking guides](https://stake.nodes.guru/nym/guide/en)
 - [Nodes.Guru mixnode setup guide](https://nodes.guru/nym/setup-guide/en)
 
-### 🇫🇷Français
+### :fr: Français
 
 - [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
 
-### 🇷🇺Russian
+### :ru: Russian
 - [Nodes.Guru mixnet staking tutorial](https://www.youtube.com/watch?v=2eq4clImbeo)
 
 ## 🎟️Grants
