@@ -25,6 +25,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Nodes.Guru telegram monitoring bot (+mixnodes)](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
+- [Pastenym - anon text sharing service ](http://paste.notrustverify.ch/)
 
 
 ## 🧭Explorers
