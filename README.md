@@ -23,7 +23,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Chat webapp](https://chat-demo.nymtech.net/)
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
-- [Mixnodes telegram monitoring bot | Nodes.Guru](https://t.me/NodesGuru_bot)
+- [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](http://paste.notrustverify.ch/)
 
@@ -40,18 +40,18 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 - [Transfer your NYM ERC20 to the Nym wallet](https://medium.com/notrustverify/transfer-your-nym-erc20-to-the-nym-wallet-via-gravity-bridge-10976d8945b1)
 - [📺Staking in Nym](https://www.youtube.com/watch?v=ZAVoCmYGNFQ&t=1s)
-- [Staking guide (including bridging) | Nodes.Guru](https://stake.nodes.guru/nym/guide/en)
-- [Mixnode setup guide | Nodes.Guru](https://nodes.guru/nym/setup-guide/en)
-- [Add NYX chain to Keplr | Nodes.Guru](https://stake.nodes.guru/nym/guide/en#keplr)
+- [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/en)
+- [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/en)
+- [Add NYX chain to Keplr - Nodes.Guru](https://stake.nodes.guru/nym/guide/en#keplr)
 
 ### :fr: Français
 
 - [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
 
 ### :ru: Russian
-- [Mixnet video staking tutorial | Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
-- [Staking guide (including bridging) | Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
-- [Mixnode setup guide | Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
+- [Mixnet video staking tutorial - Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
+- [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
+- [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
 
 ## 🎟️Grants
 
