@@ -26,6 +26,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](http://paste.notrustverify.ch/)
+- [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)
 
 
 ## 🧭Explorers
