@@ -21,12 +21,12 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ## 🔨Tools
 - [Chat webapp](https://chat-demo.nymtech.net/)
+- [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](http://paste.notrustverify.ch/)
-- [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)
 
 
 ## 🧭Explorers
