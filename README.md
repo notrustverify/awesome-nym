@@ -6,6 +6,9 @@
 
 A curated list of resources about [Nym](https://nymtech.net/) besides the official [docs](https://nymtech.net/docs/stable/overview/).
 
+To add your tools or resources, just do a PR on the [repository](https://github.com/notrustverify/awesome-nym)
+
+
 ## ToC
 - [🔨Tools](#tools)
 - [🧭Explorers](#explorers)
