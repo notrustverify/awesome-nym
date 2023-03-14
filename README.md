@@ -24,12 +24,12 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ## 🔨Tools
 - [Chat webapp](https://chat-demo.nymtech.net/)
-- [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)
-- [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)
+- [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)![stars](https://img.shields.io/github/stars/EdenBlockVC/spook.svg?style=social)
+- [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)![stars](https://img.shields.io/github/stars/noot/nym-ethtx.svg?style=social)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
-- [Pastenym - anon text sharing service ](http://paste.notrustverify.ch/)
+- [Pastenym - anon text sharing service ](https://pastenym.ch/)
 
 
 ## 🧭Explorers
@@ -76,4 +76,4 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [🇹🇭 Thai (Unofficial)](https://t.me/nymthai)
 
 ## ⛓️Nodes
-- [Docker deployment](https://github.com/sven-hash/nym-docker)
+
