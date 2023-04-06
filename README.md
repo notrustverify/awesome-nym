@@ -51,8 +51,8 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ### :fr: Français
 
--[Acheter des NYM sans KYC avec Nym Wallet](https://medium.com/notrustverify/acheter-des-nym-sans-kyc-avec-nym-wallet-v1-1-2-d6ae8af5c358)
--[Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
+- [Acheter des NYM sans KYC avec Nym Wallet](https://medium.com/notrustverify/acheter-des-nym-sans-kyc-avec-nym-wallet-v1-1-2-d6ae8af5c358)
+- [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
 
 ### :ru: Russian
 - [Mixnet video staking tutorial - Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
