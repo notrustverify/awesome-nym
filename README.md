@@ -47,9 +47,11 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/en)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/en)
 - [Add NYX chain to Keplr - Nodes.Guru](https://stake.nodes.guru/nym/guide/en#keplr)
+- [Buy NYM without KYC with NYM Wallet](https://medium.com/notrustverify/buy-nym-without-kyc-with-nym-wallet-1-1-2-ca741a0a7232)
 
 ### :fr: Français
 
+- [Acheter des NYM sans KYC avec Nym Wallet](https://medium.com/notrustverify/acheter-des-nym-sans-kyc-avec-nym-wallet-v1-1-2-d6ae8af5c358)
 - [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
 
 ### :ru: Russian
