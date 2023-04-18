@@ -29,7 +29,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
-- [Pastenym - anon text sharing service ](https://pastenym.ch/)
+- [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
 
 
 ## 🧭Explorers
