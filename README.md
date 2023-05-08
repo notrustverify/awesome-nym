@@ -48,11 +48,17 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/en)
 - [Add NYX chain to Keplr - Nodes.Guru](https://stake.nodes.guru/nym/guide/en#keplr)
 - [Buy NYM without KYC with NYM Wallet](https://medium.com/notrustverify/buy-nym-without-kyc-with-nym-wallet-1-1-2-ca741a0a7232)
+- [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
+- [Using Blockstream Green through Nym’s mixnet](https://medium.com/notrustverify/use-blockstream-green-through-nyms-mixnet-4ba96e9fe69d)
+- [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
 
 ### :fr: Français
 
 - [Acheter des NYM sans KYC avec Nym Wallet](https://medium.com/notrustverify/acheter-des-nym-sans-kyc-avec-nym-wallet-v1-1-2-d6ae8af5c358)
 - [Transférer ses NYM ERC20 sur le wallet Nym](https://medium.com/notrustverify/transfert-de-nym-erc20-vers-nym-cosmos-via-gravity-bridge-1b03fa20393a)
+- [Utiliser Electrum à travers le réseau mixnet de Nym](https://medium.com/notrustverify/utiliser-electrum-%C3%A0-travers-le-r%C3%A9seau-mixnet-de-nym-9fe049b33986)
+- [Utiliser Blockstream Green à travers le réseau mixnet de Nym](https://medium.com/notrustverify/utiliser-blockstream-green-%C3%A0-travers-le-r%C3%A9seau-mixnet-de-nym-9e4ef3d8a9ec)
+- [Utiliser Keybase à travers le réseau mixnet de Nym](https://medium.com/notrustverify/utiliser-keybase-%C3%A0-travers-le-r%C3%A9seau-mixnet-de-nym-78ec24685e89)
 
 ### :ru: Russian
 - [Mixnet video staking tutorial - Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
