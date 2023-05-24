@@ -18,6 +18,7 @@ To add your tools or resources, just do a PR on the [repository](https://github.
 - [🎟️Grants](#%EF%B8%8Fgrants)
 - [🗺️Communities](#%EF%B8%8Fcommunities)
 - [⛓️Nodes](#%EF%B8%8Fnodes)
+ - [Mixnodes](#mixnodes)
 
 To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
 
@@ -85,4 +86,6 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [🇹🇭 Thai (Unofficial)](https://t.me/nymthai)
 
 ## ⛓️Nodes
+
+### Mixnodes
 
