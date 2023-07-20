@@ -69,6 +69,8 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ## 🎟️Grants
 
+- [Nymgraph - P2P chat client](https://github.com/Tyz3/nymgraph)
+
 ## 🗺️Communities
 
 - [🌎 English](https://t.me/nymchan) 
