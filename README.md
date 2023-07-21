@@ -33,7 +33,6 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
 
-
 ## 🧭Explorers
 
 - [Nodes.Guru Mixnet Explorer](https://mixnet.explorers.guru/)
@@ -63,9 +62,20 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Utiliser Keybase à travers le réseau mixnet de Nym](https://medium.com/notrustverify/utiliser-keybase-%C3%A0-travers-le-r%C3%A9seau-mixnet-de-nym-78ec24685e89)
 
 ### :ru: Russian
+
 - [Mixnet video staking tutorial - Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
+
+### :electric_plug: NymConnect
+
+- [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
+- [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
+- [Use Blockstream Green through Nym’s mixnet](https://medium.com/notrustverify/use-blockstream-green-through-nyms-mixnet-4ba96e9fe69d)
+- [Have a good time on Pornhub through the mixnet](https://medium.com/notrustverify/have-a-good-time-on-pornhub-through-the-mixnet-68871233e922)
+- [Access to Novaya Gazeta through Nym’s mixnet](https://medium.com/notrustverify/access-to-novaya-gazeta-via-nyms-mixnet-c94d36a85f45)
+- [Buying Alephium tokens through Nym’s mixnet](https://medium.com/notrustverify/alephium-x-nym-1-buying-alph-tokens-through-nyms-mixnet-298c3891efad)
+- [Using Alephium’s wallet through Nym’s mixnet](https://medium.com/notrustverify/using-alephiums-wallet-through-nym-s-mixnet-3fa13622be32)
 
 ## 🎟️Grants
 
