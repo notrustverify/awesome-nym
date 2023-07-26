@@ -24,6 +24,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 
 ## 🔨Tools
+- [P2P chat client - Nymgraph](https://github.com/Tyz3/nymgraph)
 - [Chat webapp](https://chat-demo.nymtech.net/)
 - [Darkfi over Nym](https://github.com/darkrenaissance/darkfi) - [docs](https://darkrenaissance.github.io/darkfi/clients/anonymous_outbound.html)![stars](https://img.shields.io/github/stars/darkrenaissance/darkfi.svg?style=social)
 - [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)![stars](https://img.shields.io/github/stars/EdenBlockVC/spook.svg?style=social)
@@ -32,7 +33,6 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
-
 
 ## 🧭Explorers
 
@@ -66,10 +66,6 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnet video staking tutorial - Nodes.Guru](https://www.youtube.com/watch?v=2eq4clImbeo)
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
-
-## 🎟️Grants
-
-- [Nymgraph - P2P chat client](https://github.com/Tyz3/nymgraph)
 
 ## 🗺️Communities
 
