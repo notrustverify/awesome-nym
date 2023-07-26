@@ -18,7 +18,7 @@ To add your tools or resources, just do a PR on the [repository](https://github.
   * [🇫🇷Français](#français)
 - [🎟️Grants](#%EF%B8%8Fgrants)
 - [⛓️Nodes](#%EF%B8%8Fnodes)
-  * [Tools](#tools)
+  * [Tools](#tools-1)
 - [🗺️Communities](#%EF%B8%8Fcommunities)
 
 To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
