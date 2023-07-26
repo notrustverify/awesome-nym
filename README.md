@@ -11,6 +11,7 @@ To add your tools or resources, just do a PR on the [repository](https://github.
 
 ## ToC
 - [🔨Tools](#tools)
+  * [:electric_plug:NymConnect](#electric_plug-nymconnect)
 - [🧭Explorers](#explorers)
 - [ℹ️Tutorials](#ℹ%EF%B8%8Ftutorials)
   * [🇬🇧English](#english)
@@ -33,6 +34,16 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
+
+### :electric_plug: NymConnect
+
+- [Access to Novaya Gazeta through Nym’s mixnet](https://medium.com/notrustverify/access-to-novaya-gazeta-via-nyms-mixnet-c94d36a85f45)
+- [Buying Alephium tokens through Nym’s mixnet](https://medium.com/notrustverify/alephium-x-nym-1-buying-alph-tokens-through-nyms-mixnet-298c3891efad)
+- [Have a good time on Pornhub through the mixnet](https://medium.com/notrustverify/have-a-good-time-on-pornhub-through-the-mixnet-68871233e922)
+- [Use Blockstream Green through Nym’s mixnet](https://medium.com/notrustverify/use-blockstream-green-through-nyms-mixnet-4ba96e9fe69d)
+- [Using Alephium’s wallet through Nym’s mixnet](https://medium.com/notrustverify/using-alephiums-wallet-through-nym-s-mixnet-3fa13622be32)
+- [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
+- [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
 
 ## 🧭Explorers
 
@@ -68,15 +79,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
 
-## :electric_plug: NymConnect
 
-- [Access to Novaya Gazeta through Nym’s mixnet](https://medium.com/notrustverify/access-to-novaya-gazeta-via-nyms-mixnet-c94d36a85f45)
-- [Buying Alephium tokens through Nym’s mixnet](https://medium.com/notrustverify/alephium-x-nym-1-buying-alph-tokens-through-nyms-mixnet-298c3891efad)
-- [Have a good time on Pornhub through the mixnet](https://medium.com/notrustverify/have-a-good-time-on-pornhub-through-the-mixnet-68871233e922)
-- [Use Blockstream Green through Nym’s mixnet](https://medium.com/notrustverify/use-blockstream-green-through-nyms-mixnet-4ba96e9fe69d)
-- [Using Alephium’s wallet through Nym’s mixnet](https://medium.com/notrustverify/using-alephiums-wallet-through-nym-s-mixnet-3fa13622be32)
-- [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
-- [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
 
 ## 🗺️Communities
 
