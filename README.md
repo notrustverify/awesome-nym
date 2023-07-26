@@ -33,6 +33,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
+- [Explorenym - mixnode install/update tool](https://github.com/ExploreNYM/bash-tool)
 
 ## 🧭Explorers
 
