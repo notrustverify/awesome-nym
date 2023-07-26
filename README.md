@@ -17,9 +17,9 @@ To add your tools or resources, just do a PR on the [repository](https://github.
   * [🇬🇧English](#english)
   * [🇫🇷Français](#français)
 - [🎟️Grants](#%EF%B8%8Fgrants)
-- [🗺️Communities](#%EF%B8%8Fcommunities)
 - [⛓️Nodes](#%EF%B8%8Fnodes)
-  * [Mixnodes](#mixnodes)
+  * [Tools](#tools)
+- [🗺️Communities](#%EF%B8%8Fcommunities)
 
 To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). Please list items alphabetically.
 
@@ -81,6 +81,13 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 
 
+## ⛓️Nodes
+
+### Tools
+
+- [Explorenym - mixnode install/update tool](https://github.com/ExploreNYM/bash-tool) ![stars](https://img.shields.io/github/stars/ExploreNYM/bash-tool.svg?style=social)
+
+
 ## 🗺️Communities
 
 - [🌎 English](https://t.me/nymchan) 
@@ -96,10 +103,3 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [🇩🇪 Deutsch (Unofficial)](https://t.me/nymger)
 - [🇮🇷 Persian (Unofficial)](https://t.me/Nym_Persian)
 - [🇹🇭 Thai (Unofficial)](https://t.me/nymthai)
-
-## ⛓️Nodes
-
-### Mixnodes
-
-#### Tools
-
