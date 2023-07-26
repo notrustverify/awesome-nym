@@ -25,7 +25,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 
 ## 🔨Tools
 - [Chat webapp](https://chat-demo.nymtech.net/)
-- [Darkfi over Nym](https://github.com/darkrenaissance/darkfi) - [docs](https://darkrenaissance.github.io/darkfi/clients/anonymous_outbound.html)![stars](https://img.shields.io/github/stars/darkrenaissance/darkfi.svg?style=social)
+- [Darkfi](https://github.com/darkrenaissance/darkfi) - [Running over Nym](https://darkrenaissance.github.io/darkfi/clients/nym_outbound.html)![stars](https://img.shields.io/github/stars/darkrenaissance/darkfi.svg?style=social)
 - [Ethereum RPC mixer](https://github.com/EdenBlockVC/spook)![stars](https://img.shields.io/github/stars/EdenBlockVC/spook.svg?style=social)
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)![stars](https://img.shields.io/github/stars/noot/nym-ethtx.svg?style=social)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
