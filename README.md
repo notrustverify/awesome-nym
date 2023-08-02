@@ -32,6 +32,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Ethereum transaction submitter using Nym](https://github.com/noot/nym-ethtx)![stars](https://img.shields.io/github/stars/noot/nym-ethtx.svg?style=social)
 - [Mixnet speed dashboard](https://status.notrustverify.ch/grafana/d/CW3L7dVVk/nym-mixnet)
 - [Mixnodes telegram monitoring bot - Nodes.Guru](https://t.me/NodesGuru_bot)
+- [NymSocketManager](https://github.com/notrustverify/nymsocketmanager) - a golang module to facilitate the communication with the Mixnet ![stars](https://img.shields.io/github/stars/notrustverify/nymsocketmanager.svg?style=social)
 - [Is Nym mixnet up](https://isnymup.com/)
 - [Pastenym - anon text sharing service ](https://pastenym.ch/)![stars](https://img.shields.io/github/stars/notrustverify/pastenym.svg?style=social)
 
