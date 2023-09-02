@@ -68,6 +68,8 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Access to Novaya Gazeta through Nym’s mixnet](https://medium.com/notrustverify/access-to-novaya-gazeta-via-nyms-mixnet-c94d36a85f45)
 - [Buying Alephium tokens through Nym’s mixnet](https://medium.com/notrustverify/alephium-x-nym-1-buying-alph-tokens-through-nyms-mixnet-298c3891efad)
 - [Using Alephium’s wallet through Nym’s mixnet](https://medium.com/notrustverify/using-alephiums-wallet-through-nym-s-mixnet-3fa13622be32)
+- [Access to Meduza through Nym’s mixnet](https://medium.com/notrustverify/access-to-meduza-through-nyms-mixnet-506736bcaf15)
+- [Trading on Uniswap via NymConnect](https://medium.com/notrustverify/trading-on-uniswap-via-nymconnect-ccf657b048b8)
 
 ## 🎟️Grants
 
