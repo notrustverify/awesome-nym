@@ -80,6 +80,12 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
 
+### :gb: Español
+
+- [cómo actualizar un nodo](https://github.com/Noisk8/montando_nodo_nym)
+- [cómo actualizar un nodo -vídeo-](https://archive.org/details/nym-node-update)
+- [cómo utilizar nym conect con telegram](https://www.youtube.com/watch?v=wFV4jw1h1zY)
+
 
 
 ## ⛓️Nodes
