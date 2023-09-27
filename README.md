@@ -45,6 +45,9 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Using Alephium’s wallet through Nym’s mixnet](https://medium.com/notrustverify/using-alephiums-wallet-through-nym-s-mixnet-3fa13622be32)
 - [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
 - [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
+- [Trading on Uniswap via NymConnect](https://medium.com/notrustverify/trading-on-uniswap-via-nymconnect-ccf657b048b8)
+- [Access to Meduza through Nym’s mixnet](https://medium.com/notrustverify/access-to-meduza-through-nyms-mixnet-506736bcaf15)
+- [Access & interact with a DAO through NymConnect](https://medium.com/notrustverify/access-interact-with-a-dao-through-nymconnect-1bb11264769b)
 
 ## 🧭Explorers
 
