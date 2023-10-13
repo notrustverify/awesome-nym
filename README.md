@@ -83,7 +83,15 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Staking guide (including bridging) - Nodes.Guru](https://stake.nodes.guru/nym/guide/ru)
 - [Mixnode setup guide - Nodes.Guru](https://nodes.guru/nym/setup-guide/ru)
 
+### 🇵🇹 Portuguese
 
+- [Como delegar Tokens NYM para Stake](https://www.youtube.com/watch?v=SFBmaSAeBCU&t=1s)
+- [Configurando o NymConnect para o Telegram](https://medium.com/@nymportugues/configurando-o-nymconnect-com-o-telegram-f1b93c933714)
+- [Adquirindo os binários para rodar o node](https://nymtech.notion.site/Adquirindo-os-bin-rios-60966f8f0dc14183999a5ea4ee683c30)
+- [Pre-requisitos para administrar um node](https://nymtech.notion.site/Pr-requisitos-para-administrar-um-node-c243c114e4ac4ae8b3bcc3f96290402a)
+- [Como instalar um mixnode](https://nymtech.notion.site/Como-instalar-um-mixnode-da-nym-8125afa9fdbc4e28a32213d39b2af5d9)
+- [Como administrar seu node](https://nymtech.notion.site/Como-administrar-seu-node-a5eb1bd55c3c4aa688fc2a450d4281e8)
+  
 
 ## ⛓️Nodes
 
