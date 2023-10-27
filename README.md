@@ -68,6 +68,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Using Electrum through Nym’s mixnet](https://medium.com/notrustverify/using-electrum-through-nyms-mixnet-3f2dc3eca87b)
 - [Using Blockstream Green through Nym’s mixnet](https://medium.com/notrustverify/use-blockstream-green-through-nyms-mixnet-4ba96e9fe69d)
 - [Using Keybase through the Nym mixnet](https://medium.com/notrustverify/using-keybase-through-the-nym-mixnet-6fedac118057)
+- [NYM Gateway on Raspberry Pi](https://gist.github.com/plebhash/64ad5cf0d58fb8a9715987ceeae5285a)
 
 ### :fr: Français
 
