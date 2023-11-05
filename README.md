@@ -54,6 +54,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Nodes.Guru Mixnet Explorer](https://mixnet.explorers.guru/)
 - [Nodes.Guru NYX Blockchain Explorer](https://nym.explorers.guru/)
 - [Nym nodes explorer](https://explorer.nymtech.net/)
+- [ExploreNYM Explorer](https://explorenym.net/)
 
 ## ℹ️Tutorials
 
