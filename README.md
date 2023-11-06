@@ -48,6 +48,7 @@ To contribute, file a [PR](https://github.com/notrustverify/awesome-nym/pulls). 
 - [Trading on Uniswap via NymConnect](https://medium.com/notrustverify/trading-on-uniswap-via-nymconnect-ccf657b048b8)
 - [Access to Meduza through Nym’s mixnet](https://medium.com/notrustverify/access-to-meduza-through-nyms-mixnet-506736bcaf15)
 - [Access & interact with a DAO through NymConnect](https://medium.com/notrustverify/access-interact-with-a-dao-through-nymconnect-1bb11264769b)
+- [Access to sms4sats.com through Nym’s mixnet](https://medium.com/notrustverify/access-to-sms4sats-com-through-nyms-mixnet-885c89a07dbd)
 
 ## 🧭Explorers
 
